@@ -1,0 +1,110 @@
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.Form1.resources
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.FormSQL.resources
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CopyComplete
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+D:\FPT polytechnic\C#3\learn\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.HoTro.resources
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.Form1.resources
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.FormSQL.resources
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.HoTro.resources
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CopyComplete
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DuAnAgile\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.Form1.resources
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.FormSQL.resources
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.HoTro.resources
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CopyComplete
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+E:\fpt fpolytechnic\học kỳ 3\Block2\Quản lý dự án với Agile\Wkshop\DuAnAgile\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.Form1.resources
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.FormSQL.resources
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.HoTro.resources
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.Qmk1.resources
+C:\Users\Admin\Documents\Zalo Received Files\DuAnAgile (3)\DuAn\obj\Debug\net6.0-windows\DuAn.QuenMK.resources
